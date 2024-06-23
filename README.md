@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **kristian2015ok@gmail.com**
 
-- 📄 Know about my experiences [CV_Christian](https://drive.google.com/file/d/1dEYqgqtqj3PtLUFAQ_TvOhPN8MN9JhCe/view)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/christian72/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
