@@ -1,4 +1,3 @@
-![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQG-e3bBMQ6_Vw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1709186310843?e=1731542400&v=beta&t=DpGu4LBszCG8wwh1heCvVxmd1DnQ3kA8Sskh-mG7ngw)
 <h1 align="center">Hi 👋, I'm Christian</h1>
 <h3 align="center">A passionate frontend web developer from Indonesia</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
